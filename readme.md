@@ -68,10 +68,6 @@ This is important on Linux
 sh ftg.sh
 ```
 
-More:
-
-in `Ubuntu system` we need to modify `./data/characters/ZEN` to `./data/characters/Zen` (`Windows system` needn't)
-
 注意，运行代码时候不要跑多个，即使修改端口4242也不行，虽然能运行，但很多指令传达不到，导致效果极差。
 
 ## 2. 基于SARSA的强化学习算法
